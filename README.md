@@ -8,4 +8,5 @@ C:\xampp\htdocsに解凍したファイルを入れれば良いです。
 出力側でhtmlspecialcharesを使うようにしています。
 
 拡張もできるだけ容易にしました。単純化するためにhtml + phpで作っています。
+
 javascriptは使用していません。
